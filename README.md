@@ -28,10 +28,12 @@ Start Capturing Packets
 ![image](https://github.com/user-attachments/assets/db61d36b-81fa-45b3-a138-535d152ba96e)
 
 Apply Filters to Focus on Specific Traffic
+
 • Use filters like http, ip.addr == 192.168.1.1, or tcp.port == 80 in the top filter bar to narrow down results.
 ![image](https://github.com/user-attachments/assets/abe9994a-1bd3-4221-9d73-63b3ecbb71fd)
 
 Analyze Packet Details
+
 • Click on a packet to view its detailed breakdown including frame, Ethernet,IP, TCP/UDP layers, and data payload.
 ![image](https://github.com/user-attachments/assets/9f1e6fc0-4dd6-43ee-9cd6-00c54221a216)
 
